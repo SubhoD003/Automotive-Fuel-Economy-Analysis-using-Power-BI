@@ -101,3 +101,13 @@ Here I've used a 'Line Chart' where Company names are plotted on x-axis against 
 
 ![Screenshot 2024-07-24 234526](https://github.com/user-attachments/assets/d7a7d237-ccf4-4b2f-bf70-1cdaa913fcf0)
 
+<img width="605" alt="PB-1" src="https://github.com/user-attachments/assets/0cac3687-4545-4977-adce-e03351940905">
+<img width="606" alt="PB-2" src="https://github.com/user-attachments/assets/13b697ab-9428-4ee6-b5da-55d9065289f6">
+<img width="607" alt="PB-3" src="https://github.com/user-attachments/assets/483c8377-f208-4c22-b449-46f96c9e82fe">
+<img width="604" alt="PB-4" src="https://github.com/user-attachments/assets/78844925-4447-47b0-a33c-0cc6deca001f">
+
+
+
+
+
+
